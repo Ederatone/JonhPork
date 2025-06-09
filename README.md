@@ -27,11 +27,12 @@ cd JonhPork
 pip install -r requirements.txt
 ```
 
-3. Створіть файл `.env` у корені проєкту та додайте:
+3. Створіть файл `.env` у корені проєкту та додайте в нього [API токен](https://youtu.be/UhZtrhV7t3U?si=qMmuW95MOQaojdPg&t=67):
 
 ```
 BOT_TOKEN=your_telegram_bot_token
 ```
+
 
 4. Запустіть бота:
 
